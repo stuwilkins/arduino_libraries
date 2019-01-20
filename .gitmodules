@@ -115,3 +115,6 @@
 [submodule "pt100rtd"]
 	path = pt100rtd
 	url = git@github.com:drhaney/pt100rtd.git
+[submodule "Adafruit_Sensor"]
+	path = Adafruit_Sensor
+	url = git@github.com:adafruit/Adafruit_Sensor.git
