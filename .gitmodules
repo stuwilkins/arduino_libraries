@@ -1,0 +1,120 @@
+[submodule "Adafruit_ASFcore"]
+	path = Adafruit_ASFcore
+	url = git@github.com:adafruit/Adafruit_ASFcore.git
+[submodule "Adafruit_BME280_Library"]
+	path = Adafruit_BME280_Library
+	url = git@github.com:adafruit/Adafruit_BME280_Library.git
+[submodule "Adafruit_BluefruitLE_nRF51"]
+	path = Adafruit_BluefruitLE_nRF51
+	url = git@github.com:adafruit/Adafruit_BluefruitLE_nRF51.git
+[submodule "Adafruit_CircuitPlayground"]
+	path = Adafruit_CircuitPlayground
+	url = git@github.com:adafruit/Adafruit_CircuitPlayground.git
+[submodule "Adafruit_NeoPixel_ZeroDMA"]
+	path = Adafruit_NeoPixel_ZeroDMA
+	url = git@github.com:adafruit/Adafruit_NeoPixel_ZeroDMA.git
+[submodule "Adafruit_FT6206_Library"]
+	path = Adafruit_FT6206_Library
+	url = git@github.com:adafruit/Adafruit_FT6206_Library.git
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = git@github.com:adafruit/Adafruit-GFX-Library.git
+[submodule "Adafruit_HTU21DF_Library"]
+	path = Adafruit_HTU21DF_Library
+	url = git@github.com:adafruit/Adafruit_HTU21DF_Library.git
+[submodule "Adafruit_HX8357_Library"]
+	path = Adafruit_HX8357_Library
+	url = git@github.com:adafruit/Adafruit_HX8357_Library.git
+[submodule "Adafruit_ILI9341"]
+	path = Adafruit_ILI9341
+	url = git@github.com:adafruit/Adafruit_ILI9341.git
+[submodule "Adafruit_INA219"]
+	path = Adafruit_INA219
+	url = git@github.com:adafruit/Adafruit_INA219.git
+[submodule "Adafruit_LIS3DH"]
+	path = Adafruit_LIS3DH
+	url = git@github.com:adafruit/Adafruit_LIS3DH.git
+[submodule "Adafruit_MAX31865"]
+	path = Adafruit_MAX31865
+	url = git@github.com:adafruit/Adafruit_MAX31865.git
+[submodule "Adafruit_MQTT_Library"]
+	path = Adafruit_MQTT_Library
+	url = git@github.com:adafruit/Adafruit_MQTT_Library.git
+[submodule "Adafruit_NeoPixel"]
+	path = Adafruit_NeoPixel
+	url = git@github.com:adafruit/Adafruit_NeoPixel.git
+[submodule "Adafruit_SI1145_Library"]
+	path = Adafruit_SI1145_Library
+	url = git@github.com:adafruit/Adafruit_SI1145_Library.git
+[submodule "Adafruit_STMPE610"]
+	path = Adafruit_STMPE610
+	url = git@github.com:adafruit/Adafruit_STMPE610.git
+[submodule "Adafruit_Si7021"]
+	path = Adafruit_Si7021
+	url = git@github.com:adafruit/Adafruit_Si7021.git
+[submodule "Adafruit_SleepyDog"]
+	path = Adafruit_SleepyDog
+	url = git@github.com:adafruit/Adafruit_SleepyDog.git
+[submodule "Adafruit_Unified_Sensor"]
+	path = Adafruit_Unified_Sensor
+	url = git@github.com:adafruit/Adafruit_Sensor.git
+[submodule "Adafruit_VS1053_Library"]
+	path = Adafruit_VS1053_Library
+	url = git@github.com:adafruit/Adafruit_VS1053_Library.git
+[submodule "Adafruit_ZeroDMA"]
+	path = Adafruit_ZeroDMA
+	url = git@github.com:adafruit/Adafruit_ZeroDMA.git
+[submodule "ArduinoJson"]
+	path = ArduinoJson
+	url = git@github.com:bblanchon/ArduinoJson.git
+[submodule "I2C"]
+	path = I2C
+	url = git@github.com:rambo/I2C.git
+[submodule "MAX17043GU"]
+	path = MAX17043GU
+	url = git@github.com:stuwilkins/MAX17043GU.git
+[submodule "NTPClient"]
+	path = NTPClient
+	url = git@github.com:arduino-libraries/NTPClient.git
+[submodule "PWFusion_AS3935_I2C"]
+	path = PWFusion_AS3935_I2C
+	url = git@github.com:stuwilkins/PWFusion_AS3935_I2C.git
+[submodule "PWFusion_AS3935_SPI"]
+	path = PWFusion_AS3935_SPI
+	url = git@github.com:stuwilkins/PWFusion_AS3935_SPI.git
+[submodule "PrintEx"]
+	path = PrintEx
+	url = git@github.com:Chris--A/PrintEx.git
+[submodule "PubSubClient"]
+	path = PubSubClient
+	url = git@github.com:knolleary/pubsubclient.git
+[submodule "RTClib"]
+	path = RTClib
+	url = git@github.com:adafruit/RTClib.git
+[submodule "RemoteConsole"]
+	path = RemoteConsole
+	url = git@github.com:stuwilkins/RemoteConsole.git
+[submodule "RemoteDebug"]
+	path = RemoteDebug
+	url = git@github.com:JoaoLopesF/RemoteDebug.git
+[submodule "SD"]
+	path = SD
+	url = git@github.com:adafruit/SD.git
+[submodule "Syslog"]
+	path = Syslog
+	url = git@github.com:arcao/Syslog.git
+[submodule "WiFi101"]
+	path = WiFi101
+	url = git@github.com:arduino-libraries/WiFi101.git
+[submodule "WiFi101OTA"]
+	path = WiFi101OTA
+	url = git@github.com:arduino-libraries/WiFi101OTA.git
+[submodule "eeprom_i2c"]
+	path = eeprom_i2c
+	url = git@github.com:stuwilkins/eeprom_i2c.git
+[submodule "uCRC16Lib"]
+	path = uCRC16Lib
+	url = git@github.com:Naguissa/uCRC16Lib.git
+[submodule "pt100rtd"]
+	path = pt100rtd
+	url = git@github.com:drhaney/pt100rtd.git
