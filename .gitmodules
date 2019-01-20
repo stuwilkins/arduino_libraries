@@ -55,9 +55,6 @@
 [submodule "Adafruit_SleepyDog"]
 	path = Adafruit_SleepyDog
 	url = git@github.com:adafruit/Adafruit_SleepyDog.git
-[submodule "Adafruit_Unified_Sensor"]
-	path = Adafruit_Unified_Sensor
-	url = git@github.com:adafruit/Adafruit_Sensor.git
 [submodule "Adafruit_VS1053_Library"]
 	path = Adafruit_VS1053_Library
 	url = git@github.com:adafruit/Adafruit_VS1053_Library.git
