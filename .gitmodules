@@ -118,3 +118,18 @@
 [submodule "Adafruit_Sensor"]
 	path = Adafruit_Sensor
 	url = git@github.com:adafruit/Adafruit_Sensor.git
+[submodule "Adafruit_SPIFlash"]
+	path = Adafruit_SPIFlash
+	url = git@github.com:adafruit/Adafruit_SPIFlash.git
+[submodule "Adafruit_QSPI"]
+	path = Adafruit_QSPI
+	url = git@github.com:adafruit/Adafruit_QSPI.git
+[submodule "Adafruit_ZeroI2S"]
+	path = Adafruit_ZeroI2S
+	url = git@github.com:adafruit/Adafruit_ZeroI2S.git
+[submodule "Audio"]
+	path = Audio
+	url = git@github.com:PaulStoffregen/Audio.git
+[submodule "cores"]
+	path = cores
+	url = git@github.com:PaulStoffregen/cores.git
