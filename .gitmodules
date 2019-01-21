@@ -127,9 +127,6 @@
 [submodule "Adafruit_ZeroI2S"]
 	path = Adafruit_ZeroI2S
 	url = git@github.com:adafruit/Adafruit_ZeroI2S.git
-[submodule "Audio"]
-	path = Audio
-	url = git@github.com:PaulStoffregen/Audio.git
 [submodule "cores"]
 	path = cores
 	url = git@github.com:PaulStoffregen/cores.git
