@@ -130,3 +130,6 @@
 [submodule "cores"]
 	path = cores
 	url = git@github.com:PaulStoffregen/cores.git
+[submodule "AudioZero"]
+	path = AudioZero
+	url = git@github.com:arduino-libraries/AudioZero.git
